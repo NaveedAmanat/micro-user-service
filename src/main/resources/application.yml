@@ -17,6 +17,6 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     servceUrl:
-      defaultZone: http://eureka-0.eureka.micro-service.default.svc.cluster.local:8761/eureka
+      defaultZone: http://eureka-0.eureka.default.svc.cluster.local:8761/eureka
 
 
